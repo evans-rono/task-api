@@ -1,10 +1,5 @@
 {
-  "framework": "laravel",
+  "buildCommand": "composer install && npm install && npm run build",
   "outputDirectory": "public",
-  "buildCommand": "npm run build",
-  "devCommand": "npm run dev",
-  "env": {
-    "APP_ENV": "production",
-    "APP_DEBUG": "false"
-  }
+  "framework": "node"
 }
