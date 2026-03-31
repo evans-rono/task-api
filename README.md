@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management API
 
 A Laravel + MySQL Task Management API built for the internship take-home assignment.
@@ -39,3 +40,7 @@ A Laravel + MySQL Task Management API built for the internship take-home assignm
 
 - MySQL
 - SQL dump included: `task_management.sql`
+=======
+# task-api
+ Task management API built with Laravel - handles task creation, updates, deletion, and reporting
+>>>>>>> cd93a2d3da055d83dc4a2b3539b0fda6b0fd2221
